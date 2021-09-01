@@ -29,7 +29,6 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working in [Cognizant](https://www.cognizant.com/).
 - 🌱 I’m currently learning more about cloud architectures.
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/Debdyut/).
 - 🤔 I’m looking for help with TinyML.
