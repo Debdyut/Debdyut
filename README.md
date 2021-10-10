@@ -61,9 +61,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Debdyut&repo=Smart-Glass&theme=light" />
 
 </a>
-<a href="https://github.com/Debdyut/IBM-Call-For-Code-High-Flyers">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Debdyut&repo=IBM-Call-For-Code-High-Flyers&theme=light" />
-</a>
 
 <div align="center">
 
